@@ -2,8 +2,8 @@
 
 Welcome to My Github, I'm Yi:
 
-- 🔭 I’m currently a graduate student studying Computer Science Game Development at USC
-- 👀 I am actively looking for Summer 2023 Internship Opportunities in Game Development
+- 🔭 I recently graduated from the University of Southern California with a Master's degree in Computer Science (Game Development)
+- 👀 I am actively looking for full-time opportunities in game design and engineering
 - ⚡ Hobbies: Games, Books, and Sports
 
 <!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydaiydai&hide=stars,prs,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
