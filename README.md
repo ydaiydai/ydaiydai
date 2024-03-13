@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Welcome to My Github, I'm Yi:
+### Welcome to My Github, I'm Yi:
 
 - 🔭 I recently graduated from the University of Southern California with a Master's degree in Computer Science (Game Development)
 - 👀 I am actively looking for full-time opportunities in game design and engineering
